@@ -1,0 +1,22 @@
+{
+  "name": "javascript-testing",
+  "version": "1.0.0",
+  "description": "Few practical tests for JavaScript functions using the Jest library",
+  "main": "index.js",
+  "scripts": {
+    "test": "Jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Owusu-Desmond/javascript-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Owusu-Desmond/javascript-testing/issues"
+  },
+  "homepage": "https://github.com/Owusu-Desmond/javascript-testing#readme",
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
